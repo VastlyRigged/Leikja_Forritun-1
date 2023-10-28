@@ -1,0 +1,12 @@
+Verkefni 1.
+1. Scene view
+  The scene view is an interactive world that you create. Developers uses it to select, manipulate, modify, etc to GameObjects.
+2. Game view
+  Game view is basically as the name implies, view of the game. It is essential to use it in order to play test your work.
+3. Project
+  A specific window which only includes the asset files of your project. It's connected to the project asset folder in file explorer.
+4. Hierarchy
+  The Hierarchy window displays every GameObject in a Scene, such as models, Cameras, or Prefabs. 
+  You can use the Hierarchy window to sort and group the GameObjects you use in a Scene. 
+5. Inspector
+  Inspector is used to view, edit, modify and inpsect configuration within any type of object at scene or project folder. 
