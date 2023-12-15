@@ -1,5 +1,3 @@
-Gameplay: 
+Gameplay: https://youtu.be/0B8aRNOdx1k
 
-Commentery: 
-
-Editor: 
+Editor: https://youtu.be/wdsVPK626zc
